@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ICadastro
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ interface\ ICadastro\ aqui.\r\n\ \r\n\ @author\ Pedro\ Evaristo\ de\ Oliveira\r\n\ @version\ 16/05/2024\r\n
+comment1.params=a
+comment1.target=void\ inserir(Aluno)
+comment2.params=ra
+comment2.target=boolean\ remover(java.lang.String)
+comment3.params=
+comment3.target=void\ mostrar()
+comment4.params=
+comment4.target=boolean\ estaVazia()
+numComments=5
