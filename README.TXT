@@ -5,7 +5,7 @@ all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
 PROJECT TITLE: Cadastro de alunos
-PURPOSE OF PROJECT:
+PURPOSE OF PROJECT:LED1_Cadastro_alunos.pdf
 VERSION or DATE:
 HOW TO START THIS PROJECT:
 AUTHORS: Pedro Evaristo de Oliveira
